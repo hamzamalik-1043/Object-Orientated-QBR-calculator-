@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\bilal\OneDrive\Documents\hamza\2nd year classes\GENG 2320 Software\week 7\qbr rating calc object program\object orientated qbr\object orientated qbr\Source.cpp(21,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\bilal\OneDrive\Documents\hamza\2nd year classes\GENG 2320 Software\week 7\qbr rating calc object program\object orientated qbr\object orientated qbr\Source.cpp(22,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\bilal\OneDrive\Documents\hamza\2nd year classes\GENG 2320 Software\week 7\qbr rating calc object program\object orientated qbr\object orientated qbr\Source.cpp(23,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\bilal\OneDrive\Documents\hamza\2nd year classes\GENG 2320 Software\week 7\qbr rating calc object program\object orientated qbr\object orientated qbr\Source.cpp(24,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  object orientated qbr.vcxproj -> C:\Users\bilal\OneDrive\Documents\hamza\2nd year classes\GENG 2320 Software\week 7\qbr rating calc object program\object orientated qbr\Debug\object orientated qbr.exe
